@@ -15,7 +15,8 @@ The system supports live-reloading. You can edit your scripts and apply changes 
 
 * **[Lua API Reference](LUA_API.md)**
   A full technical breakdown of every server-side function available in the environment.
-
+* **[SquadLink UI](SQUADLINK_UI.md)**
+  Full SquadLink UI feature reference
 * **[Example Scripts](https://github.com/SquadExtended/community-scripts)**
   A collection of community-contributed logic, ranging from simple admin tools to complex gamemodes.
 
